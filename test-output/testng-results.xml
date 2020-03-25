@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58094" started-at="2020-03-25T05:09:59Z" finished-at="2020-03-25T05:10:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58094" started-at="2020-03-25T05:09:59Z" finished-at="2020-03-25T05:10:57Z">
+      <class name="testCases.tests">
+        <test-method status="PASS" signature="start()[pri:0, instance:testCases.tests@51081592]" name="start" is-config="true" duration-ms="8684" started-at="2020-03-25T02:09:59Z" finished-at="2020-03-25T02:10:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="BuscarExistente()[pri:0, instance:testCases.tests@51081592]" name="BuscarExistente" duration-ms="1800" started-at="2020-03-25T02:10:08Z" finished-at="2020-03-25T02:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuscarExistente -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:testCases.tests@51081592]" name="finish" is-config="true" duration-ms="624" started-at="2020-03-25T02:10:10Z" finished-at="2020-03-25T02:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="start()[pri:0, instance:testCases.tests@51081592]" name="start" is-config="true" duration-ms="6715" started-at="2020-03-25T02:10:10Z" finished-at="2020-03-25T02:10:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="BuscarNoExistente()[pri:0, instance:testCases.tests@51081592]" name="BuscarNoExistente" duration-ms="1141" started-at="2020-03-25T02:10:17Z" finished-at="2020-03-25T02:10:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuscarNoExistente -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:testCases.tests@51081592]" name="finish" is-config="true" duration-ms="595" started-at="2020-03-25T02:10:18Z" finished-at="2020-03-25T02:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="start()[pri:0, instance:testCases.tests@51081592]" name="start" is-config="true" duration-ms="9165" started-at="2020-03-25T02:10:19Z" finished-at="2020-03-25T02:10:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="Dress()[pri:0, instance:testCases.tests@51081592]" name="Dress" duration-ms="3817" started-at="2020-03-25T02:10:28Z" finished-at="2020-03-25T02:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dress -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:testCases.tests@51081592]" name="finish" is-config="true" duration-ms="591" started-at="2020-03-25T02:10:32Z" finished-at="2020-03-25T02:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="start()[pri:0, instance:testCases.tests@51081592]" name="start" is-config="true" duration-ms="7134" started-at="2020-03-25T02:10:32Z" finished-at="2020-03-25T02:10:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="Women()[pri:0, instance:testCases.tests@51081592]" name="Women" duration-ms="4488" started-at="2020-03-25T02:10:39Z" finished-at="2020-03-25T02:10:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Women -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:testCases.tests@51081592]" name="finish" is-config="true" duration-ms="596" started-at="2020-03-25T02:10:44Z" finished-at="2020-03-25T02:10:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="start()[pri:0, instance:testCases.tests@51081592]" name="start" is-config="true" duration-ms="9124" started-at="2020-03-25T02:10:44Z" finished-at="2020-03-25T02:10:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="loguearse()[pri:0, instance:testCases.tests@51081592]" name="loguearse" duration-ms="3010" started-at="2020-03-25T02:10:54Z" finished-at="2020-03-25T02:10:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loguearse -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:testCases.tests@51081592]" name="finish" is-config="true" duration-ms="591" started-at="2020-03-25T02:10:57Z" finished-at="2020-03-25T02:10:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- testCases.tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
